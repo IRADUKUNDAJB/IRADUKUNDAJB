@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IRADUKUNDAJB
+- 👀 I’m interested in software development and networking
+- 🌱 I’m currently learning Java programming and Software
+- 💞️ I’m looking to collaborate on web application
+- 📫 How to reach me you can contact me via iradukjb@gmail.com
